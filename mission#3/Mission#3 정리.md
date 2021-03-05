@@ -15,7 +15,7 @@
 - 테스트 시 사용할 툴
   - 단순히 웹 브라우저에서 구현한 서버에 접속하면 GET 메소드로만 요청이 가능하므로 REST API를 테스트하기 불편하다.
   - Chrome 확장 프로그램인 **Advanced REST Client**를 사용했다.
-- node.js + express.jsde.js + express.js를 사용했다.
+- node.js + express.js를 사용했다.
 
 <br>
 
